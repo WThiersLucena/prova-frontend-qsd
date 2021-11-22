@@ -23,6 +23,7 @@ body{
     margin-bottom: 25px;
 }
 
+
 .ladoB{
     background-color: brown;
     height: 600px;  
@@ -50,6 +51,7 @@ body{
     background-color: brown;
     width: 120px;
     border-radius: 45px;
+    text-decoration: none;
     
 }
 

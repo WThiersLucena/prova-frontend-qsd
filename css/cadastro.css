@@ -28,8 +28,10 @@ body{
 }
 
 .entrar{
+    color: blanchedalmond;
     margin-top: 12px;
     border-radius: 45px;
+    
 }
 .ladoA{
     background-color: orangered;
@@ -47,3 +49,5 @@ body{
     width: 120px;
     border-radius: 45px;  
 }
+
+
