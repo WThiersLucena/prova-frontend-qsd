@@ -1,0 +1,13 @@
+body{
+    background-color: teal;
+}
+
+.ladoA{
+    background-color: orangered;
+}
+.ladoB{
+    background-color: rgb(233, 231, 229);
+}
+.mail, .text-nome, .text-nome2{
+    display: none;
+}
