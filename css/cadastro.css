@@ -1,13 +1,49 @@
 body{
     background-color: teal;
+    text-align: center;
 }
 
+.login{
+    color: white;
+    margin-top: 20%;
+    font-weight: bold;
+    font-size: xx-large;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.criarconta{
+    color:black;
+    font-weight: bold;
+}
+
+.links{
+    text-decoration: none;
+    margin-left: 25px;
+    margin-bottom: 5px;
+}
+.faça{
+    color: white;
+    margin-bottom: 15px;
+}
+
+.entrar{
+    margin-top: 12px;
+    border-radius: 45px;
+}
 .ladoA{
     background-color: orangered;
 }
 .ladoB{
     background-color: rgb(233, 231, 229);
 }
-.mail, .text-nome, .text-nome2{
+.mail, .text-nome, .text-nome2, .erro-rg{
     display: none;
+}
+
+.cadastrar{
+    align-items: center;
+    background-color: orange;
+    width: 120px;
+    border-radius: 45px;  
 }
